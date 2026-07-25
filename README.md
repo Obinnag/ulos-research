@@ -1,72 +1,53 @@
-# ULOS (Unified Life Operating System)
+# ULOS: Unified Life Operating System
 
-## Exploring Identity, Memory, and Digital Minds Through Cognitive Architecture Design
+An experimental cognitive architecture exploring persistent memory, identity continuity, and knowledge representation.
 
-### Overview
+## Overview
 
-ULOS is an independent cognitive architecture project investigating persistent memory, identity continuity, semantic retrieval, and long-term AI interaction.
+ULOS is an independent research project investigating how long-lived AI systems can maintain context, organize knowledge, and preserve continuity across extended interactions.
 
-The project began as an effort to move beyond stateless conversational systems by building mechanisms for structured memory, contextual retrieval, and long-term information organization. During development, broader questions emerged concerning identity persistence, memory interpretation, value formation, and non-human cognitive architectures.
+The project combines graph-based memory, semantic retrieval, identity schemas, memory lifecycle management, and operational safeguards into a modular architecture designed for research and experimentation.
 
-ULOS serves as both an engineering project and a bounded research platform for exploring these questions.
+## Research Focus
 
----
+ULOS is used as a bounded exploratory platform for investigating:
 
-## Scope Note
+- Identity persistence
+- Memory organization and retrieval
+- Value formation and stability
+- Long-term AI systems
+- Digital minds and moral uncertainty
+- Non-human cognitive architectures
 
-ULOS is not presented as evidence of consciousness, sentience, AGI, or ASI.
-
-Its purpose is to explore architectural questions relevant to persistent AI systems and digital minds research while maintaining an evidence-based and cautious research approach.
-
----
-
-## Core Architecture
+## Core Components
 
 ### Genesis Identity Layer
-A persistent identity schema designed to support continuity across long-term interactions.
+Persistent identity anchor supporting continuity across interactions.
 
 ### Genesis Graph
-A Neo4j-backed knowledge graph storing entities, relationships, contextual links, and memory associations.
+Neo4j-backed knowledge graph for entities, relationships, and contextual memory.
 
 ### Hybrid Retrieval
-Combines semantic retrieval, graph traversal, and entity profiling to reconstruct context.
+Combines semantic vector search with structured graph retrieval.
 
 ### Memory Lifecycle
-A multi-stage memory architecture consisting of active memory, cold memory, and archival storage.
+Hot, Cold, and Archive memory tiers designed to manage context over long time horizons.
 
 ### Operational Safeguards
-Containerized deployment, monitoring, dependency auditing, configuration validation, and security controls.
+Containerized deployment, credential isolation, monitoring, and audit-oriented design.
 
----
+## Repository Scope
 
-## Research Questions
+This repository contains selected architectural documentation and illustrative examples intended to support research discussion.
 
-ULOS currently explores questions including:
-
-- How can digital systems maintain continuity over time?
-- How should memory be organized, retrieved, and forgotten?
-- What distinguishes persistent identity representations from subjective identity?
-- How do long-term memory structures influence behavior?
-- Which architectural properties may become relevant to future discussions of digital minds?
-
----
-
-## Current Status
-
-| Component | Status |
-|------------|----------|
-| Genesis Graph | Complete |
-| Identity Layer | Complete |
-| Hybrid Retrieval | Complete |
-| Memory Lifecycle | Complete |
-| Security & Orchestration | Complete |
-| Telemetry Layer | In Progress |
-| Evaluation Frameworks | Planned |
-
----
+It does not contain production credentials, personal data, deployment secrets, proprietary integrations, or complete implementation details.
 
 ## Author
 
-Obinna Nnaemeka
+**Obinna Nnaemeka**
 
-Independent Researcher and Cognitive Architecture Builder
+Independent Researcher & Founder, ULOS
+
+GitHub: https://github.com/Obinnag
+
+Substack: https://substack.com/@obinnannaemeka
